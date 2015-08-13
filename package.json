@@ -1,0 +1,18 @@
+{
+  "name": "abstract-encoding",
+  "version": "0.0.0",
+  "description": "An encoding interface for node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/abstract-encoding.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/abstract-encoding/issues"
+  },
+  "homepage": "https://github.com/mafintosh/abstract-encoding"
+}
