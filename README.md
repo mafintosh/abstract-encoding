@@ -6,7 +6,7 @@ A encoding interface for node
 
 #### `buffer = encoding.encode(obj, [buffer], [offset])`
 
-Should encode an object into a buffer. If a buffer is passed as the second argument the object should be encoded into that buffer. Otherwise a new buffer should be allocated If an offset is passed as the third argument the object should be encoded at that byte offset. The byte offset defaults to `0`
+Should encode an object into a buffer. If a buffer is passed as the second argument the object should be encoded into that buffer. Otherwise a new buffer should be allocated. If an offset is passed as the third argument the object should be encoded at that byte offset. The byte offset defaults to `0`
 
 After encoding `encoding.encode.bytes` should be set to the amount of
 bytes used to encode the object.
