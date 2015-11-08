@@ -28,6 +28,7 @@ Should return the amount of bytes needed to encode `obj`.
 * [ip-packet](https://github.com/mafintosh/ip-packet)
 * [vstruct](https://github.com/dominictarr/varstruct)
 * [objectstruct](https://github.com/mafintosh/objectstruct)
+* [mdns-txt](https://github.com/watson/mdns-txt)
 
 ## License
 
