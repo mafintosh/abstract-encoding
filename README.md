@@ -37,6 +37,7 @@ Should return the amount of bytes needed to encode `obj`.
 * [vstruct](https://github.com/dominictarr/varstruct)
 * [objectstruct](https://github.com/mafintosh/objectstruct)
 * [mdns-txt](https://github.com/watson/mdns-txt)
+* [base64-emoji](https://github.com/watson/base64-emoji)
 
 ## License
 
