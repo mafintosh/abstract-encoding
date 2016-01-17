@@ -21,7 +21,7 @@ bytes used to encode the object.
 
 #### `obj = encoding.decode(buffer, [offset], [length])`
 
-Should decode an object from a buffer. If an offset is passed as the second argument the object should be decoded from that byte offset. The byte offset defaults to `0`. A length can be passed as the third argument specifying the number of bytes that should be decoded. The length defaults to `buffer.length`.
+Should decode an object from a buffer. If an offset is passed as the second argument the object should be decoded from that byte offset. The byte offset defaults to `0`. A length can be passed as the third argument specifying the number of bytes that should be decoded. The length defaults to `buffer.length - offset`.
 
 After decoding `encoding.decode.bytes` should be set to the amount of bytes used to decode the object
 
