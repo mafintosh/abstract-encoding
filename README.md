@@ -38,6 +38,8 @@ Should return the amount of bytes needed to encode `obj`.
 * [objectstruct](https://github.com/mafintosh/objectstruct)
 * [mdns-txt](https://github.com/watson/mdns-txt)
 * [base64-emoji](https://github.com/watson/base64-emoji)
+* [uint64be](https://github.com/mafintosh/uint64be)
+* [uint48be](https://github.com/mafintosh/uint48be)
 
 ## License
 
