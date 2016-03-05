@@ -42,6 +42,7 @@ Should return the amount of bytes needed to encode `obj`.
 * [base64-emoji](https://github.com/watson/base64-emoji)
 * [uint64be](https://github.com/mafintosh/uint64be)
 * [uint48be](https://github.com/mafintosh/uint48be)
+* [mp4-box-encoding](https://github.com/jhiesey/mp4-box-encoding)
 
 ## License
 
