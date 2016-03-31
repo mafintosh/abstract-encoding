@@ -43,6 +43,7 @@ Should return the amount of bytes needed to encode `obj`.
 * [uint64be](https://github.com/mafintosh/uint64be)
 * [uint48be](https://github.com/mafintosh/uint48be)
 * [mp4-box-encoding](https://github.com/jhiesey/mp4-box-encoding)
+* [bencode](https://github.com/themasch/node-bencode)
 
 ## License
 
