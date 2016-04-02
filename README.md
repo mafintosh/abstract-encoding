@@ -44,6 +44,7 @@ Should return the amount of bytes needed to encode `obj`.
 * [uint48be](https://github.com/mafintosh/uint48be)
 * [mp4-box-encoding](https://github.com/jhiesey/mp4-box-encoding)
 * [bencode](https://github.com/themasch/node-bencode)
+* [bencode.js](https://github.com/fanatid/bencode.js)
 * [bitfield-rle](https://github.com/mafintosh/bitfield-rle)
 
 ## License
