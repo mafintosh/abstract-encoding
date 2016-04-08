@@ -33,7 +33,7 @@ Should return the amount of bytes needed to encode `obj`.
 
 * [protocol-buffers](https://github.com/mafintosh/protocol-buffers)
 * [varint](https://github.com/chrisdickinson/varint)
-* [varuint-bitcoin](https://github.com/fanatid/varuint-bitcoin)
+* [varuint-bitcoin](https://github.com/bitcoinjs/varuint-bitcoin)
 * [ip-packet](https://github.com/mafintosh/ip-packet)
 * [varstruct](https://github.com/dominictarr/varstruct)
 * [varstruct-match](https://github.com/dominictarr/varstruct-match)
