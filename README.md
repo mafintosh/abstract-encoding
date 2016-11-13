@@ -47,6 +47,7 @@ Should return the amount of bytes needed to encode `obj`.
 * [bencode.js](https://github.com/fanatid/bencode.js)
 * [bitfield-rle](https://github.com/mafintosh/bitfield-rle)
 * [ipv4-peers](https://github.com/mafintosh/ipv4-peers)
+* [rlp-encoding](https://github.com/fanatid/rlp-encoding)
 
 ## License
 
