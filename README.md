@@ -48,6 +48,7 @@ Should return the amount of bytes needed to encode `obj`.
 * [bitfield-rle](https://github.com/mafintosh/bitfield-rle)
 * [ipv4-peers](https://github.com/mafintosh/ipv4-peers)
 * [rlp-encoding](https://github.com/fanatid/rlp-encoding)
+* [buffer-json-encoding](https://github.com/lachenmayer/buffer-json-encoding)
 
 ## License
 
